@@ -1,6 +1,6 @@
 {
   "name": "ckeditor5-build-classic-alignment-highlight",
-  "version": "12.0.0",
+  "version": "12.1.0",
   "description": "The classic editor build of CKEditor 5 with alignment and highlight.",
   "keywords": [
     "ckeditor5-build",
@@ -20,7 +20,8 @@
     "real-time",
     "framework",
     "alignment",
-    "highlight"
+    "highlight",
+    "underline"
   ],
   "main": "./build/ckeditor.js",
   "files": [
