@@ -1,7 +1,7 @@
 {
-  "name": "@ckeditor/ckeditor5-build-classic",
+  "name": "ckeditor5-build-classic-alignment",
   "version": "12.0.0",
-  "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
+  "description": "The classic editor build of CKEditor 5 with alignment and highlight.",
   "keywords": [
     "ckeditor5-build",
     "ckeditor",
@@ -18,7 +18,9 @@
     "collaboration",
     "collaborative",
     "real-time",
-    "framework"
+    "framework",
+    "alignment",
+    "highlight"
   ],
   "main": "./build/ckeditor.js",
   "files": [
