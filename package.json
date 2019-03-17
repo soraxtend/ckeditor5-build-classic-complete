@@ -69,10 +69,10 @@
   "author": "CKSource (http://cksource.com/)",
   "license": "GPL-2.0-or-later",
   "homepage": "https://ckeditor.com/ckeditor-5",
-  "bugs": "https://github.com/ckeditor/ckeditor5-build-classic/issues",
+  "bugs": "https://github.com/EmAiShoaib/ckeditor5-build-classic-alignment-highlight/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/ckeditor5-build-classic.git"
+    "url": "https://github.com/EmAiShoaib/ckeditor5-build-classic-alignment-highlight"
   },
   "scripts": {
     "build": "webpack --mode production",
