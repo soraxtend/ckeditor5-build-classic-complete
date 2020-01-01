@@ -1,6 +1,6 @@
 {
   "name": "ckeditor5-build-classic-complete",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The classic editor build of CKEditor 5 with most of the available plugins.",
   "keywords": [
     "ckeditor5-build",

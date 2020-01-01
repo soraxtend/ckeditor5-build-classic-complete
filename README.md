@@ -5,35 +5,35 @@ The classic editor build for CKEditor 5. Read more about the [classic editor bui
 
 ![CKEditor 5 classic editor build screenshot](https://c.cksource.com/a/1/img/npm/ckeditor5-build-classic.png)
 
-## Plugins Included
-* [Essentials](https://www.npmjs.com/package/@ckeditor/ckeditor5-essentials);
-* [Adapter Ckfinder](https://www.npmjs.com/package/@ckeditor/ckeditor5-adapter-ckfinder);
+## Plugins Included (so far)
+* [Essentials](https://www.npmjs.com/package/@ckeditor/ckeditor5-essentials)
+* [Adapter Ckfinder](https://www.npmjs.com/package/@ckeditor/ckeditor5-adapter-ckfinder)
 	* Upload Adapter
-* [Autoformat](https://www.npmjs.com/package/@ckeditor/ckeditor5-autoformat);
-* [Basic Styles](https://www.npmjs.com/package/@ckeditor/ckeditor5-basic-styles);
+* [Autoformat](https://www.npmjs.com/package/@ckeditor/ckeditor5-autoformat)
+* [Basic Styles](https://www.npmjs.com/package/@ckeditor/ckeditor5-basic-styles)
 	* Bold
 	* Italic
 	* Underline
-* [BlockQuote](https://www.npmjs.com/package/@ckeditor/ckeditor5-block-quote);
-* [CKFinder](https://www.npmjs.com/package/@ckeditor/ckeditor5-ckfinder);
-* [EasyImage](https://www.npmjs.com/package/@ckeditor/ckeditor5-easy-image);
-* [Heading](https://www.npmjs.com/package/@ckeditor/ckeditor5-heading);
-* [Image](https://www.npmjs.com/package/@ckeditor/ckeditor5-image);
+* [BlockQuote](https://www.npmjs.com/package/@ckeditor/ckeditor5-block-quote)
+* [CKFinder](https://www.npmjs.com/package/@ckeditor/ckeditor5-ckfinder)
+* [EasyImage](https://www.npmjs.com/package/@ckeditor/ckeditor5-easy-image)
+* [Heading](https://www.npmjs.com/package/@ckeditor/ckeditor5-heading)
+* [Image](https://www.npmjs.com/package/@ckeditor/ckeditor5-image)
 	* Image
 	* Image Caption
 	* Image Style
 	* Image Toolbar
 	* Image Upload
-* [Link](https://www.npmjs.com/package/@ckeditor/ckeditor5-link);
-* [List](https://www.npmjs.com/package/@ckeditor/ckeditor5-list);
-* [MediaEmbed](https://www.npmjs.com/package/@ckeditor/ckeditor5-media-embed);
-* [Paragraph](https://www.npmjs.com/package/@ckeditor/ckeditor5-paragraph);
-* [PasteFromOffice](https://www.npmjs.com/package/@ckeditor/ckeditor5-paste-from-office);
-* [Table](https://www.npmjs.com/package/@ckeditor/ckeditor5-table);
+* [Link](https://www.npmjs.com/package/@ckeditor/ckeditor5-link)
+* [List](https://www.npmjs.com/package/@ckeditor/ckeditor5-list)
+* [MediaEmbed](https://www.npmjs.com/package/@ckeditor/ckeditor5-media-embed)
+* [Paragraph](https://www.npmjs.com/package/@ckeditor/ckeditor5-paragraph)
+* [PasteFromOffice](https://www.npmjs.com/package/@ckeditor/ckeditor5-paste-from-office)
+* [Table](https://www.npmjs.com/package/@ckeditor/ckeditor5-table)
 	* Table
 	* Table Toolbar
-* [Alignment](https://www.npmjs.com/package/@ckeditor/ckeditor5-alignment);
-* [Highlight](https://www.npmjs.com/package/@ckeditor/ckeditor5-highlight);
+* [Alignment](https://www.npmjs.com/package/@ckeditor/ckeditor5-alignment)
+* [Highlight](https://www.npmjs.com/package/@ckeditor/ckeditor5-highlight)
 
 ## Documentation
 
